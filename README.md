@@ -120,7 +120,7 @@ git push origin add-my-tip
 2. You’ll see a prompt to “Compare & pull request”.
 3. Click it, add a short description, and submit your PR.
 
-Wait for the maintainer to review and merge your contribution
+Wait for the maintainer to review and merge your contribution. A PR should have a proper description of the changes to make it easy for the maintainers to understand your changes.
 
 ---
 
@@ -143,3 +143,4 @@ If you see a merge conflict:
    ```
 
 ---
+

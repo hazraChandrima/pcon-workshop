@@ -2,4 +2,7 @@
 
 - Chandrima Hazra
 - Hemanvitha Pullela
--tom
+- tom
+- ritesh852
+- Animesh Karn
+- amara

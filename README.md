@@ -1,6 +1,4 @@
 # Dev Tips – A Collaborative Repository for Developers
-Welcome to **Dev Tips** — a collection of coding wisdom!  
-This repo is designed for beginners learning **Git, GitHub, and open-source collaboration**.
 ---
 ## What You'll Learn
 - How to **fork** a repository

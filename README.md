@@ -10,17 +10,17 @@
 ## 🗂️ Repository Structure
 ```
 dev-tips/
-├── tips/
-│   ├── beginner_tips.md
-│   ├── intermediate_tips.md
-│   └── advanced_tips.md
+└── tips.md
 └── contributors.md
+└── README.md
+└── .gitignore
 ```
 Each `.md` file contains categorized developer tips.  
 You'll add your own tip to the right file and your name in `contributors.md`.
 ---
 ## How to Contribute
 Follow these steps carefully
+
 ### 1. Fork this repository
 Click the **Fork** button at the top right of this page.  
 This creates a copy of this repo under your GitHub account.
@@ -47,13 +47,7 @@ Always create a new branch for your changes:
 git checkout -b add-my-tip
 ```
 ---
-### 4. Add your tip
-Open the `tips/` folder and pick a file based on your experience:
-| Category     | File                        |
-| ------------ | --------------------------- |
-| Beginner     | `tips/beginner_tips.md`     |
-| Intermediate | `tips/intermediate_tips.md` |
-| Advanced     | `tips/advanced_tips.md`     |
+### 4. Add your tip in tips.md
 Add your tip at the bottom of the file like this:
 ```markdown
 - Always write meaningful commit messages. *(Added by Chandrima Hazra)*
@@ -66,7 +60,7 @@ Then, add your name to the `contributors.md` file:
 ### 5. Commit your changes
 ```bash
 git add .
-git commit -m "Added Chandrima's tip on meaningful commit messages"
+git commit -m "<commit message here>"
 ```
 ---
 ### 6. Push your branch

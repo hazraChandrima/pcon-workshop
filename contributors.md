@@ -2,4 +2,4 @@
 
 - Chandrima Hazra
 - Hemanvitha Pullela
-- huvttut
+- amara

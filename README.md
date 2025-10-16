@@ -71,5 +71,27 @@ git push origin add-my-tip
 1. Go to your fork on GitHub.
 2. You'll see a prompt to "Compare & pull request".
 3. Click it, add a short description, and submit your PR.
-   Wait for the maintainer to review and merge your contribution
+
+Wait for the maintainer to review and merge your contribution. A PR should have a proper description of the changes to make it easy for the maintainers to understand your changes.
+
+---
+
+## ⚠️ Handling Merge Conflicts
+
+If you see a merge conflict:
+
+1. Pull the latest main branch:
+
+   ```bash
+   git pull upstream main
+   ```
+2. Resolve conflicts manually in your file.
+3. Add and commit again:
+
+   ```bash
+   git add .
+   git commit -m "Resolved conflict"
+   git push origin add-my-tip
+   ```
+
 ---

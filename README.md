@@ -1,5 +1,5 @@
 # Dev Tips – A Collaborative Repository for Developers
----
+
 ## What You'll Learn
 - How to **fork** a repository
 - How to **clone** and **branch**

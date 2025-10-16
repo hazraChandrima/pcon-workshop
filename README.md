@@ -15,8 +15,7 @@ dev-tips/
 └── README.md
 └── .gitignore
 ```
-Each `.md` file contains categorized developer tips.  
-You'll add your own tip to the right file and your name in `contributors.md`.
+
 ---
 ## How to Contribute
 Follow these steps carefully
